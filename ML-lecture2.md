@@ -139,7 +139,7 @@ CTRL-SHIFT-I for developer console within Firefox
 
 1. If you hit download, and track the actual link that is being used. 
 2. Pause it
-3. right click the download record, you should get a long curl string It has the cookies / auth details. You can paste in the AWS. Then need to add a '-o filename.zip'. That should download very quickly
+3. right click the download record, you should get a long curl string It has the cookies / auth details. You can paste in the AWS. Then need to add a '-o filename.zip'. That should download very quickly (you may need to delete the --2.0 if you get an error)
 
 ### Bulldozers
 
